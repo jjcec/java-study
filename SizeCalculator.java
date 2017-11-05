@@ -6,7 +6,7 @@ public class SizeCalculator {
     	int area = width*length;
     	int price = area*10000;
     	
-    	System.out.println("최종가격: " + price);
+    	System.out.println("The price is: " + price);
     	
     	
     }
