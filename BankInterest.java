@@ -9,7 +9,7 @@ public class BankInterest {
     	double fourthyear = thirdyear + (thirdyear*rate);
     	double fifthyear = fourthyear + (fourthyear*rate);
     	
-    	System.out.println("5³â ÈÄÀÇ ±İÇÙ: " + fifthyear);
+    	System.out.println("After 5 years: " + fifthyear);
     	
     	
     	
